@@ -79,10 +79,10 @@ dependencies {
     // Moshi
     implementation("com.squareup.moshi:moshi:1.14.0")
     implementation("com.squareup.moshi:moshi-kotlin:1.14.0")
-    implementation("com.squareup.retrofit2.:convertor-moshi:2.9.0")
+    implementation("com.squareup.retrofit2:converter-moshi:2.9.0")
 
     // OkHttp Interceptor
-    implementation("com.squareup..okhttp:logging-interceptor:4.11.0")
+    implementation("com.squareup.okhttp3:logging-interceptor:4.11.0")
 
 
 
